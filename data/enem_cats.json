@@ -1,0 +1,54 @@
+{
+ "TP_FAIXA_ETARIA": [
+  "17 anos",
+  "21 anos",
+  "Menor de 17 anos",
+  "22 anos",
+  "Maior de 41",
+  "Entre 26 e 30 anos",
+  "18 anos",
+  "24 anos",
+  "Entre 31 e 35 anos",
+  "19 anos",
+  "20 anos",
+  "23 anos",
+  "25 anos",
+  "Entre 36 e 40 anos"
+ ],
+ "Até que série seu pai estudou?": [
+  "Completou a Pós-graduação.",
+  "Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio.",
+  "Completou a Faculdade, mas não completou a Pós-graduação.",
+  "Não completou a 4ª série/5º ano do Ensino Fundamental.",
+  "Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental.",
+  "Completou o Ensino Médio, mas não completou a Faculdade.",
+  "Não sei.",
+  "Nunca estudou."
+ ],
+ "Até que série sua mãe estudou?": [
+  "Completou a Faculdade, mas não completou a Pós-graduação.",
+  "Completou o Ensino Médio, mas não completou a Faculdade.",
+  "Nunca estudou.",
+  "Completou a 8ª série/9º ano do Ensino Fundamental, mas não completou o Ensino Médio.",
+  "Completou a Pós-graduação.",
+  "Não sei.",
+  "Completou a 4ª série/5º ano, mas não completou a 8ª série/9º ano do Ensino Fundamental.",
+  "Não completou a 4ª série/5º ano do Ensino Fundamental."
+ ],
+ "Ocupação mais próxima da ocupação do seu pai": [
+  "Grupo 5: Médico, engenheiro, dentista, psicólogo, economista, advogado, juiz, promotor, defensor, delegado, tenente, capitão, coronel, professor universitário, diretor em empresas públicas ou privadas, político, proprietário de empresas com mais de 10 empregados.",
+  "Grupo 3: Padeiro, cozinheiro industrial ou em restaurantes, sapateiro, costureiro, joalheiro, torneiro mecânico, operador de máquinas, soldador, operário de fábrica, trabalhador da mineração, pedreiro, pintor, eletricista, encanador, motorista, caminhoneiro, taxista.",
+  "Grupo 1: Lavrador, agricultor sem empregados, bóia fria, criador de animais (gado, porcos, galinhas, ovelhas, cavalos etc.), apicultor, pescador, lenhador, seringueiro, extrativista.",
+  "Não sei.",
+  "Grupo 4: Professor (de ensino fundamental ou médio, idioma, música, artes etc.), técnico (de enfermagem, contabilidade, eletrônica etc.), policial, militar de baixa patente (soldado, cabo, sargento), corretor de imóveis, supervisor, gerente, mestre de obras, pastor, microempresário (proprietário de empresa com menos de 10 empregados), pequeno comerciante, pequeno proprietário de terras, trabalhador autônomo ou por conta própria.",
+  "Grupo 2: Diarista, empregado doméstico, cuidador de idosos, babá, cozinheiro (em casas particulares), motorista particular, jardineiro, faxineiro de empresas e prédios, vigilante, porteiro, carteiro, office-boy, vendedor, caixa, atendente de loja, auxiliar administrativo, recepcionista, servente de pedreiro, repositor de mercadoria."
+ ],
+ "Ocupação mais próxima da ocupação da sua mãe": [
+  "Grupo 5: Médica, engenheira, dentista, psicóloga, economista, advogada, juíza, promotora, defensora, delegada, tenente, capitã, coronel, professora universitária, diretora em empresas públicas ou privadas, política, proprietária de empresas com mais de 10 empregados.",
+  "Grupo 2: Diarista, empregada doméstica, cuidadora de idosos, babá, cozinheira (em casas particulares), motorista particular, jardineira, faxineira de empresas e prédios, vigilante, porteira, carteira, office-boy, vendedora, caixa, atendente de loja, auxiliar administrativa, recepcionista, servente de pedreiro, repositora de mercadoria.",
+  "Grupo 4: Professora (de ensino fundamental ou médio, idioma, música, artes etc.), técnica (de enfermagem, contabilidade, eletrônica etc.), policial, militar de baixa patente (soldado, cabo, sargento), corretora de imóveis, supervisora, gerente, mestre de obras, pastora, microempresária (proprietária de empresa com menos de 10 empregados), pequena comerciante, pequena proprietária de terras, trabalhadora autônoma ou por conta própria.",
+  "Não sei.",
+  "Grupo 1: Lavradora, agricultora sem empregados, bóia fria, criadora de animais (gado, porcos, galinhas, ovelhas, cavalos etc.), apicultora, pescadora, lenhadora, seringueira, extrativista.",
+  "Grupo 3: Padeira, cozinheira industrial ou em restaurantes, sapateira, costureira, joalheira, torneira mecânica, operadora de máquinas, soldadora, operária de fábrica, trabalhadora da mineração, pedreira, pintora, eletricista, encanadora, motorista, caminhoneira, taxista."
+ ]
+}
