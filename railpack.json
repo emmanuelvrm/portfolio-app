@@ -1,12 +1,13 @@
 {
   "$schema": "https://schema.railpack.com",
   "provider": "python",
-  "packages": { "python": "3.10" },
-  "steps": {
-    "install": { "commands": ["pip install -r requirements.txt"] }
+  "packages": {
+    "python": "3.10"
   },
   "deploy": {
-    "aptPackages": ["libgomp1"],
+    "aptPackages": [
+      "libgomp1"
+    ],
     "startCommand": "streamlit run app.py --server.port ${PORT:-8501} --server.address 0.0.0.0 --server.headless true --browser.gatherUsageStats false --server.enableXsrfProtection false"
   }
 }
